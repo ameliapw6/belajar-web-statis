@@ -1,0 +1,45 @@
+.jumbotron {
+  background-color: #ffd1d1;
+  padding-top: 6rem;
+}
+
+#produk {
+  background-color: #ffd1d1;
+}
+
+#Contact {
+  background-color: #ffff;
+}
+
+footer {
+  background-color: #a0c3d2;
+  color: #ffd1d1;
+}
+
+.section {
+  padding-top: 5 rem;
+}
+
+h1 {
+  font-family: "Shrikhand", cursive;
+  color: #4496b9;
+}
+
+p {
+  font-family: "Lora", serif;
+  color: #8a5174;
+}
+
+h2 {
+  font-family: "Shrikhand", cursive;
+  color: #ffa7dd;
+}
+
+#produk {
+  color: #4496b9;
+}
+
+.form-label {
+  font-family: "Lora", serif;
+  color: #8a5174;
+}
